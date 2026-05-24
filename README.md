@@ -102,11 +102,23 @@ Backend для сервиса экспертизы произведений ис
 
 `Digital Design` · `Microprogramming` · `Schematics`
 
-#### [HypeTown / HYPETOWN-WebGL](https://github.com/MrGorenkov/HypeTown) — open-world проект
+#### [HypeTown / HYPETOWN-WebGL](https://github.com/MrGorenkov/HypeTown) — Telegram-игра + WebGL
 
-Прототип многопользовательского виртуального города. Python-логика игрового мира + WebGL-клиент на Unity (C#) для запуска в браузере.
+Idle clicker / tycoon в виде Telegram-бота с 3D WebGL-фронтендом на Unity 6.3 LTS. Python-бэкенд на aiogram 3, экономика, сохранения, ивенты.
 
-`Python` · `Unity` · `C#` · `WebGL`
+`Python` · `aiogram` · `Unity` · `C#` · `WebGL`
+
+#### [TMO](https://github.com/MrGorenkov/TMO) — Машинное обучение
+
+Лабораторные по дисциплине «Технологии машинного обучения» (ИУ5, 6 семестр): EDA, обработка пропусков, классификация, регрессия, бустинг и ансамбли. Все ноутбуки разобраны на реальных датасетах.
+
+`Python` · `pandas` · `scikit-learn` · `Jupyter`
+
+#### [SaveVidBot](https://github.com/MrGorenkov/SaveVidBot) — Telegram-бот для видео
+
+Асинхронный Telegram-бот на aiogram 3, скачивает видео из YouTube, TikTok, Instagram, VK и других площадок через yt-dlp. Поддержка cookies для приватных видео, личная статистика пользователя.
+
+`Python` · `aiogram` · `yt-dlp` · `asyncio`
 
 ---
 
