@@ -1,24 +1,64 @@
-<h1 align="center">Александр Горенков</h1>
-
+<!-- HERO BANNER -->
 <p align="center">
-  <i>Full-stack разработчик — iOS · Backend · Data Engineering</i>
+  <a href="https://github.com/MrGorenkov">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Aleksandr%20Gorenkov&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20·%20iOS%20·%20Backend%20·%20Data&descAlignY=58&descSize=18" alt="header"/>
+  </a>
 </p>
 
+<!-- TYPING LINE -->
 <p align="center">
-  <a href="mailto:sgrenkov39@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://t.me/MrGorenkov"><img src="https://img.shields.io/badge/Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <img src="https://img.shields.io/badge/Москва-РФ-blue?style=flat-square" alt="Moscow">
+  <a href="https://github.com/MrGorenkov">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=24292E&center=true&vCenter=true&width=620&lines=Swift+%2B+Vapor+%2B+SwiftUI+%2B+SceneKit;Django+%2B+DRF+%2B+PostgreSQL+%2B+Redis+%2B+MinIO;Docker+%2B+Linux+%2B+REST+%2B+WebSocket;TON+blockchain+%2B+Tact+%2B+smart+contracts;BMSTU+IU-5+·+Diploma+2026" alt="typing"/>
+  </a>
+</p>
+
+<!-- BADGES -->
+<p align="center">
+  <a href="mailto:sgrenkov39@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/MrGorenkov"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Moscow-Russia-2C7BB6?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=MrGorenkov&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
 </p>
 
 ---
 
-### О себе
+<h3 align="center">🇬🇧 About</h3>
 
-Студент кафедры ИУ-5 («Системы обработки информации и управления») МГТУ им. Н. Э. Баумана. Выпуск — 2026 год, бакалавриат. Пишу клиент-серверные системы целиком: от iOS-приложений и веб-фронта до REST/WebSocket-серверов, реляционных моделей и развёртывания в Docker. Интересуюсь компьютерной графикой, дополненной реальностью и интеграцией с публичными блокчейн-сетями.
+<p align="center">
+Full-stack engineer with a focus on shipping end-to-end systems.<br>
+I build <b>iOS apps</b> (SwiftUI · SceneKit · ARKit · Metal), <b>Swift / Python backends</b> (Vapor, Django REST), and integrate them with <b>PostgreSQL, Redis, MinIO/S3</b> and <b>public blockchains</b> (TON, Tact).<br>
+BMSTU IU-5 (Information Processing & Control Systems), graduating 2026.<br>
+Currently shipping my <a href="https://github.com/MrGorenkov/ArtSphere-Auction"><b>diploma project</b></a> — an NFT auction iOS app with real 3D rendering.
+</p>
 
-### Технологии
+<details>
+<summary align="center"><b>🇷🇺 На русском</b></summary>
 
-**Mobile**
+<br>
+
+Студент кафедры ИУ-5 МГТУ им. Н. Э. Баумана, выпуск 2026. Пишу клиент-серверные системы целиком — от мобильного клиента до сервера и БД.
+
+**Что умею делать end-to-end:**
+- 📱 iOS-приложения на SwiftUI + SceneKit + ARKit + Metal
+- 🔧 Backend на Swift (Vapor 4) и Python (Django REST Framework, Flask)
+- 🗄 БД — PostgreSQL, Redis, объектное хранилище MinIO (S3-совместимое)
+- 🐳 Docker / Compose, Nginx, развёртывание на Linux
+- ⛓ Смарт-контракты в публичной сети TON (язык Tact)
+- 📊 Имитационное моделирование и базовый ML (scikit-learn)
+
+**Открыт к стажировкам и junior/middle позициям** — пишите в Telegram.
+
+</details>
+
+---
+
+### 🧰 Tech Stack
+
+<table align="center">
+<tr><td valign="top" width="33%">
+
+**📱 Mobile**
+
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=swift&logoColor=white)
@@ -26,115 +66,165 @@
 ![ARKit](https://img.shields.io/badge/ARKit-000000?style=flat-square&logo=apple&logoColor=white)
 ![RealityKit](https://img.shields.io/badge/RealityKit-1A1A1A?style=flat-square&logo=apple&logoColor=white)
 ![Metal](https://img.shields.io/badge/Metal-FA0F00?style=flat-square&logo=apple&logoColor=white)
+![Combine](https://img.shields.io/badge/Combine-FF3B30?style=flat-square&logo=swift&logoColor=white)
 
-**Backend**
+</td><td valign="top" width="33%">
+
+**🛠 Backend**
+
 ![Vapor](https://img.shields.io/badge/Vapor-4-7A4FFF?style=flat-square&logo=swift&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-REST-A30000?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![REST](https://img.shields.io/badge/REST-API-orange?style=flat-square)
-![WebSocket](https://img.shields.io/badge/WebSocket-RFC6455-blueviolet?style=flat-square)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WS-6455-blueviolet?style=flat-square)
 
-**Data / Storage**
+</td><td valign="top" width="33%">
+
+**🗄 Data**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-S3-C72E49?style=flat-square&logo=minio&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-PL%2FpgSQL-336791?style=flat-square)
+![SQL](https://img.shields.io/badge/PL%2FpgSQL-336791?style=flat-square)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![sklearn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**DevOps / Tools**
+</td></tr><tr><td valign="top">
+
+**🐳 DevOps**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Compose](https://img.shields.io/badge/Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**Blockchain**
+</td><td valign="top">
+
+**⛓ Blockchain**
+
 ![TON](https://img.shields.io/badge/TON-0098EA?style=flat-square&logo=telegram&logoColor=white)
-![Tact](https://img.shields.io/badge/Tact-lang-9333EA?style=flat-square)
+![Tact](https://img.shields.io/badge/Tact-9333EA?style=flat-square)
+![NFT](https://img.shields.io/badge/NFT-TEP--62-orange?style=flat-square)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
 
-**Frontend / Other**
+</td><td valign="top">
+
+**🌐 Frontend / Other**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+
+</td></tr></table>
 
 ---
 
-### Избранные проекты
+### 🚀 Featured projects
 
-#### [ArtSphere Auction](https://github.com/MrGorenkov/ArtSphere-Auction) — дипломный проект
+<table>
+<tr>
+<td width="50%" valign="top">
 
-iOS-приложение для аукционов цифровых произведений искусства с трёхмерной визуализацией и оформлением прав владения в публичной сети TON.
+<a href="https://github.com/MrGorenkov/ArtSphere-Auction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrGorenkov&repo=ArtSphere-Auction&theme=default&hide_border=true&show_owner=false"/>
+</a>
+<br><sub>🎓 <b>Дипломный проект.</b> iOS аукцион цифрового искусства с 3D-визуализацией и публичной токенизацией NFT в сети TON. SwiftUI + SceneKit + Vapor + PostgreSQL + MinIO.</sub>
 
-- Мобильный клиент на SwiftUI + SceneKit + ARKit + RealityKit
-- Серверная часть на Vapor 4 (Swift), реляционное хранилище PostgreSQL 16, объектное MinIO
-- Реалтайм-торги через WebSocket с офлайн-очередью ставок (NWPathMonitor + exponential backoff)
-- Смарт-контракт коллекции NFT на языке Tact (TEP-62 / TEP-64), эмиссия через посредник на Node.js
-- Виртуальный 3D-шоурум с четырьмя темами оформления (Лувр / Modern / Loft / Cyberpunk)
-- Отдельное macOS-приложение администратора на SwiftUI
+</td>
+<td width="50%" valign="top">
 
-`Swift` · `SwiftUI` · `SceneKit` · `ARKit` · `Metal` · `Vapor` · `PostgreSQL` · `MinIO` · `Docker` · `TON` · `Tact`
+<a href="https://github.com/MrGorenkov/expertises_artwork_backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrGorenkov&repo=expertises_artwork_backend&theme=default&hide_border=true&show_owner=false"/>
+</a>
+<br><sub>🖼 Django REST backend для сервиса экспертизы картин. PostgreSQL + Redis + 4-нодовый MinIO кластер в Docker.</sub>
 
-#### [expertises_artwork_backend](https://github.com/MrGorenkov/expertises_artwork_backend) — Django + MinIO
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Backend для сервиса экспертизы произведений искусства: REST API на Django REST Framework, авторизация по сессиям через Redis, хранение изображений в MinIO (S3-совместимое), генерация QR-кодов, кластер из 4 нод MinIO в Docker Compose.
+<a href="https://github.com/MrGorenkov/ais-fc-zenit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrGorenkov&repo=ais-fc-zenit&theme=default&hide_border=true&show_owner=false"/>
+</a>
+<br><sub>⚽ АИС футбольного клуба «Зенит». Qt-клиент на C++17 + PostgreSQL с триггерами и хранимыми процедурами.</sub>
 
-`Python` · `Django` · `DRF` · `PostgreSQL` · `Redis` · `MinIO` · `Docker Compose` · `Nginx` · `boto3`
+</td>
+<td width="50%" valign="top">
 
-#### [ais-fc-zenit](https://github.com/MrGorenkov/ais-fc-zenit) — АИС футбольного клуба
+<a href="https://github.com/MrGorenkov/matchmaking-simulation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrGorenkov&repo=matchmaking-simulation&theme=default&hide_border=true&show_owner=false"/>
+</a>
+<br><sub>🎮 Дискретно-событийная имитационная модель матчмейкинга многопользовательской игры. Flask + NumPy + Chart.js.</sub>
 
-Автоматизированная информационная система для управления данными ФК «Зенит». Реляционная модель в PostgreSQL, хранимые процедуры и триггеры на PL/pgSQL, миграции, нагрузочное тестирование запросов.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-`PostgreSQL` · `PL/pgSQL` · `Qt` · `Database Design`
+<a href="https://github.com/MrGorenkov/SaveVidBot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrGorenkov&repo=SaveVidBot&theme=default&hide_border=true&show_owner=false"/>
+</a>
+<br><sub>🤖 Async Telegram-бот для скачивания видео из YouTube, TikTok, Instagram и VK. aiogram 3 + yt-dlp.</sub>
 
-#### [matchmaking-simulation](https://github.com/MrGorenkov/matchmaking-simulation) — имитационное моделирование
+</td>
+<td width="50%" valign="top">
 
-Дискретно-событийная модель системы матчмейкинга многопользовательской игры. Три региона (EU / NA / AS), MMR-разброс игроков, очереди, серверный пул. Flask-сервер для интерактивных экспериментов, Chart.js для визуализации распределений и нагрузки серверов.
+<a href="https://github.com/MrGorenkov/HypeTown">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrGorenkov&repo=HypeTown&theme=default&hide_border=true&show_owner=false"/>
+</a>
+<br><sub>🏙 Idle-clicker / tycoon Telegram-игра с 3D WebGL-фронтендом на Unity 6.3 LTS. aiogram 3 + Unity + C#.</sub>
 
-`Python` · `Flask` · `NumPy` · `Chart.js` · `Discrete-Event Simulation`
-
-#### [operational-unit-design](https://github.com/MrGorenkov/operational-unit-design) — операционное устройство
-
-Курсовая по дисциплине «Вычислительные средства АСОИУ»: проектирование операционного устройства с микропрограммным управлением. Структурная схема, граф микропрограммы, электрическая схема, реализация на уровне регистров и сумматоров.
-
-`Digital Design` · `Microprogramming` · `Schematics`
-
-#### [HypeTown / HYPETOWN-WebGL](https://github.com/MrGorenkov/HypeTown) — Telegram-игра + WebGL
-
-Idle clicker / tycoon в виде Telegram-бота с 3D WebGL-фронтендом на Unity 6.3 LTS. Python-бэкенд на aiogram 3, экономика, сохранения, ивенты.
-
-`Python` · `aiogram` · `Unity` · `C#` · `WebGL`
-
-#### [TMO](https://github.com/MrGorenkov/TMO) — Машинное обучение
-
-Лабораторные по дисциплине «Технологии машинного обучения» (ИУ5, 6 семестр): EDA, обработка пропусков, классификация, регрессия, бустинг и ансамбли. Все ноутбуки разобраны на реальных датасетах.
-
-`Python` · `pandas` · `scikit-learn` · `Jupyter`
-
-#### [SaveVidBot](https://github.com/MrGorenkov/SaveVidBot) — Telegram-бот для видео
-
-Асинхронный Telegram-бот на aiogram 3, скачивает видео из YouTube, TikTok, Instagram, VK и других площадок через yt-dlp. Поддержка cookies для приватных видео, личная статистика пользователя.
-
-`Python` · `aiogram` · `yt-dlp` · `asyncio`
+</td>
+</tr>
+</table>
 
 ---
 
-### Статистика
+### 📊 GitHub stats
 
 <p align="center">
-  <a href="https://github.com/MrGorenkov">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=MrGorenkov&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true">
-  </a>
-  <a href="https://github.com/MrGorenkov">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGorenkov&layout=compact&hide_border=true&theme=default&langs_count=10">
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MrGorenkov&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=MrGorenkov&hide_border=true&theme=default"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGorenkov&layout=compact&hide_border=true&theme=default&langs_count=10&exclude_repo=HYPETOWN-WebGL"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrGorenkov&theme=default&utcOffset=3"/>
+</p>
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MrGorenkov&theme=flat&no-frame=true&row=1&column=7&margin-w=10&margin-h=10"/>
+</p>
+
+### 📈 Contribution graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MrGorenkov&bg_color=ffffff&color=24292E&line=0e75b6&point=24292E&area=true&hide_border=true"/>
+</p>
+
+<!-- 🐍 Snake animation — generates via GitHub Action (./.github/workflows/snake.yml) -->
+<p align="center">
+  <img alt="snake" src="https://raw.githubusercontent.com/MrGorenkov/MrGorenkov/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
 <p align="center">
-  <sub>Открыт к сотрудничеству и стажировкам — пишите в Telegram или на почту.</sub>
+  <sub>💼 Open to internships and junior/middle positions · <a href="https://t.me/MrGorenkov">Telegram</a> · <a href="mailto:sgrenkov39@gmail.com">Email</a></sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer"/>
 </p>
